@@ -1,2 +1,2 @@
 # voiceassistant
-to automate things and to make things interesting 
+It is to make technology easier and to automate things and get expected results with the voice commands 
